@@ -1,0 +1,25 @@
+.quadrada{
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+   
+    width: 300px;
+    height: 300px;
+}
+
+div#q-001{
+    background-image: linear-gradient(to bottom, yellow, orange, red );
+}
+
+div#q-002{
+    background-image: linear-gradient(to top, blue, rgb(166, 0, 255), rgb(0, 0, 0));
+}
+
+div#q-003{
+    background-image: linear-gradient(to left, green, rgb(33, 179, 33), rgb(19, 233, 19));
+}
+
+div#q-004{
+    background-image: url(/imagens/pattern004.png);
+}
+
